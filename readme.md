@@ -74,3 +74,22 @@ img:    "image",
 ol:     "list",
 li:     "list-item"
 ```
+
+# JS
+
+```
+document.body.style.backgroundColor = prompt("Enter a color!");
+```
+
+- Robot can
+  - Add
+  - Subtract
+  - Multiply
+  - Divide
+  - Find the remainder of one number divided by another 
+  - Remember a number ("Number A is 42")
+  - Say something
+  - "If Number A equals 42, do this. Otherwise, do that."
+  - Go back to an earlier step
+
+- https://github.com/ga-dc/pixart_js_mini
