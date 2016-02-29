@@ -77,6 +77,8 @@ li:     "list-item"
 
 # JS
 
+https://github.com/ga-wdi-exercises/js_order_practice
+
 ```
 document.body.style.backgroundColor = prompt("Enter a color!");
 ```
