@@ -27,20 +27,18 @@ The format always looks like this:
 
 If it looks totally unfamiliar, just breathe and read what the words in the code are saying.
 
-## Begin (30 min)
+### Please do not move the lines that are mostly asterisks (`*****`)
 
-`http://play.magnetichtml.com/css_practice_start`
+## [You Do: CSS Practice](http://play.magnetichtml.com/css_practice_start) (20 min)
 
 ## Review (10 min)
 
-- What does `cursor:pointer` do?
 - What does `line-height:30px` do?
 - What's the difference between...
   - `color:purple` and `background-color:purple`?
   - `border-style:dashed` and `border-style:solid`?
-  - `padding-bottom:40px` and `margin-bottom:40px`?
+  - `padding` and `margin`?
   - `font-family:cursive` and `font-family:serif`?
-- What does the combination `margin-left:auto` and `margin-right:auto` do?
 
 # CSS (5 min)
 
@@ -88,7 +86,7 @@ document.body.style.backgroundColor = prompt("Enter a color!");
   - Subtract
   - Multiply
   - Divide
-  - Find the remainder of one number divided by another 
+  - Find the remainder of one number divided by another
   - Remember a number ("Number A is 42")
   - Say something
   - "If Number A equals 42, do this. Otherwise, do that."
